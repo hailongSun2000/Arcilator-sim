@@ -1,0 +1,4 @@
+PORT(clk)
+PORT(rst_n)
+PORT(q)
+#undef PORT

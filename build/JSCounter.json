@@ -1,0 +1,28 @@
+[
+  {
+    "name": "JSCounter",
+    "numStateBytes": 5,
+    "initialFnSym": "",
+    "finalFnSym": "",
+    "states": [
+      {
+        "name": "clk",
+        "offset": 0,
+        "numBits": 1,
+        "type": "input"
+      },
+      {
+        "name": "rst_n",
+        "offset": 1,
+        "numBits": 1,
+        "type": "input"
+      },
+      {
+        "name": "q",
+        "offset": 4,
+        "numBits": 4,
+        "type": "output"
+      }
+    ]
+  }
+]
